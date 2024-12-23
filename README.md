@@ -1,6 +1,6 @@
 ### Hi there! 👋 Welcome to my GitHub profile
 
-I'm **[Your Name]**, a computer engineering student passionate about building innovative software and hardware solutions. I enjoy working with cutting-edge technologies and exploring the intersection of low-level programming and high-level application development. 🚀
+I'm **Ruby Kai Sheng**, a computer engineering student passionate about building innovative software and hardware solutions. I enjoy working with cutting-edge technologies and exploring the intersection of low-level programming and high-level application development. 🚀
 
 ---
 
