@@ -18,9 +18,13 @@ I'm **Ruby Kai Sheng**, a computer engineering student passionate about building
   ![Wails](https://img.shields.io/badge/Wails-4C80D5?style=flat-square&logo=wails&logoColor=white)  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+  ![Cloud Build](https://img.shields.io/badge/Cloud%20Build-4285F4?style=flat-square&logo=googlecloud&logoColor=white)  
+  ![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-FF6F00?style=flat-square&logo=googlecloud&logoColor=white)  
+  ![YAML](https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white)
 
 - **Favorite Hardware:**  
-  Microcontrollers like Arduino and integrating them with software solutions for real-world applications.
+  - Microcontrollers like Arduino  
+  - Single-board computers like Raspberry Pi  
 
 ---
 
@@ -28,6 +32,8 @@ I'm **Ruby Kai Sheng**, a computer engineering student passionate about building
 🔹 Building desktop apps with **Wails** and streaming integrations like **go2rtc**.  
 🔹 Exploring the capabilities of **Go language** in backend development.  
 🔹 Experimenting with low-level programming in **Assembly** and **C++**.  
+🔹 Working with **Cloud Build**, **Cloud Functions**, and **YAML** for cloud automation and deployments.  
+🔹 Creating exciting projects using **Raspberry Pi**.
 
 ---
 
@@ -38,10 +44,13 @@ I'm **Ruby Kai Sheng**, a computer engineering student passionate about building
 ---
 
 #### 📊 **GitHub Stats**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaisheng328&show_icons=true&theme=radical)
+
+---
 
 #### 🔗 **Connect with Me**  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaisheng1801@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile) 
 
 ---
