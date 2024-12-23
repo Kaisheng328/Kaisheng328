@@ -1,4 +1,7 @@
-### Hi there! 👋 Welcome to my GitHub profile
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="100"/>
+</div>
+<h2 align="center">Hi :wave:, I'm Ruby Kai</h2>
 
 I'm **Ruby Kai Sheng**, a computer engineering student passionate about building innovative software and hardware solutions. I enjoy working with cutting-edge technologies and exploring the intersection of low-level programming and high-level application development. 🚀
 
@@ -50,7 +53,4 @@ I'm **Ruby Kai Sheng**, a computer engineering student passionate about building
 
 #### 🔗 **Connect with Me**  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaisheng1801@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile) 
-
 ---
