@@ -30,7 +30,11 @@ I'm **Ruby Kai Sheng**, a computer engineering student passionate about building
   - Single-board computers like Raspberry Pi  
 
 ---
+#### 📊 **GitHub Stats**  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaisheng328)
+![](https://github-readme-stats.vercel.app/api?username=Kaisheng328&show_icons=true&count_private=true&line_height=40)
 
+---
 #### 💻 **What I’m Working On**  
 🔹 Building desktop apps with **Wails** and streaming integrations like **go2rtc**.  
 🔹 Exploring the capabilities of **Go language** in backend development.  
@@ -43,11 +47,6 @@ I'm **Ruby Kai Sheng**, a computer engineering student passionate about building
 #### 🌱 **Learning Goals**  
 - Mastering full-stack development with **Vue.js** and **TypeScript**.  
 - Delving deeper into hardware-software interaction with **Arduino** and embedded systems.
-
----
-
-#### 📊 **GitHub Stats**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaisheng328&show_icons=true&theme=radical)
 
 ---
 
