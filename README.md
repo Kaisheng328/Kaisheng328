@@ -35,21 +35,4 @@ I'm **Ruby Kai Sheng**, a computer engineering student passionate about building
 ![](https://github-readme-stats.vercel.app/api?username=Kaisheng328&show_icons=true&count_private=true&line_height=40)
 
 ---
-#### 💻 **What I’m Working On**  
-🔹 Building desktop apps with **Wails** and streaming integrations like **go2rtc**.  
-🔹 Exploring the capabilities of **Go language** in backend development.  
-🔹 Experimenting with low-level programming in **Assembly** and **C++**.  
-🔹 Working with **Cloud Build**, **Cloud Functions**, and **YAML** for cloud automation and deployments.  
-🔹 Creating exciting projects using **Raspberry Pi**.
 
----
-
-#### 🌱 **Learning Goals**  
-- Mastering full-stack development with **Vue.js** and **TypeScript**.  
-- Delving deeper into hardware-software interaction with **Arduino** and embedded systems.
-
----
-
-#### 🔗 **Connect with Me**  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kaisheng1801@gmail.com) 
----
