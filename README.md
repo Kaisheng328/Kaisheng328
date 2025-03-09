@@ -9,14 +9,15 @@ I'm **Ruby Kai Sheng**, a computer engineering student passionate about building
 
 #### 🛠️ **My Tech Toolbox**  
 - **Programming Languages:**  
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+  ![Python](https://simpleicons.org/icons/python.svg)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
   ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=chip&logoColor=white)  
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
+  
 - **Frameworks & Tools:**  
   ![Wails](https://img.shields.io/badge/Wails-4C80D5?style=flat-square&logo=wails&logoColor=white)  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
