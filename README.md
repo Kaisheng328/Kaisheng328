@@ -17,7 +17,6 @@ I'm **Ruby Kai Sheng**, a computer engineering student passionate about building
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=chip&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
 ![YAML](https://img.shields.io/badge/YAML-000000?style=flat-square&logo=yaml&logoColor=white)  
 
@@ -28,7 +27,6 @@ I'm **Ruby Kai Sheng**, a computer engineering student passionate about building
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![Cloud Build](https://img.shields.io/badge/Cloud%20Build-4285F4?style=flat-square&logo=googlecloud&logoColor=white)  
 ![Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-FF6F00?style=flat-square&logo=googlecloud&logoColor=white)  
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)  
 
 #### **Machine Learning & AI:**  
 ![YOLO](https://img.shields.io/badge/YOLO-FF4500?style=flat-square&logo=opencv&logoColor=white)  
